@@ -74,3 +74,7 @@ Objetivo:
 | **GTD**               | Organización mental   | Múltiples proyectos       |
 | **80/20**             | Impacto               | Productividad estratégica |
 | **Ivy Lee**           | Simplicidad/prioridad | Acción enfocada diaria    |
+
+---
+
+[Volver a Inicio](../README.md)

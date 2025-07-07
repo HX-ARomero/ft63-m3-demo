@@ -41,3 +41,7 @@ Un estudio reveló que el café es la bebida más popular entre los programadore
 El "virus" Creeper, creado en 1971, es considerado el primer software en autorreplicarse. Fue diseñado para la red ARPANET, predecesora de Internet, y mostraba el mensaje “I’m the creeper, ¡catch me if you can!" en los sistemas infectados. Este experimento benigno sentó las bases para el desarrollo de software antivirus y la seguridad informática.
 
 Estos datos ilustran no sólo la riqueza histórica y la diversidad del desarrollo de software y la programación, sino también su evolución constante. Desde sus humildes inicios hasta su estado actual como columna vertebral de la tecnología moderna, este campo continúa desafiando los límites de lo posible, forjando el futuro de nuestro mundo digital.
+
+---
+
+[Volver a Inicio](../README.md)

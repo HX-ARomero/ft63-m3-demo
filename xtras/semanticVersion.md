@@ -38,3 +38,7 @@
 - **Claridad**: Los números de versión reflejan claramente el tipo de cambios realizados.
 - **Compatibilidad**: Facilita la gestión de dependencias y la integración de software, ya que se puede confiar en que las actualizaciones menores y de parches no romperán la compatibilidad.
 - **Comunicación**: Establece expectativas claras para los usuarios sobre la naturaleza y el impacto de una nueva versión.
+
+---
+
+[Volver a Inicio](../README.md)
