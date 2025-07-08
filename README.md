@@ -17,3 +17,11 @@
   - [Club de Mecanografía](https://www-typingclub-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
 ## Material Extra - Hands On
+
+01. TypeScript I
+  - [JavaScript](./xtras/01-JavaScript/01-JavaScript.md)
+  - [Errores en tiempo de ejecución de JavaScript](./xtras/01-JavaScript/02-ErroresEjecucion.md)
+  - [Modo Estricto en JavaScript](./xtras/01-JavaScript/03-UseStrict.md)
+  - [TypeScript](./xtras/01-JavaScript/02-ErroresEjecucion.md)
+02. TypeScript II
+03. TypeScript & Express
