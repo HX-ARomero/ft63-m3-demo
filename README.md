@@ -18,10 +18,15 @@
 
 ## Material Extra - Hands On
 
-01. TypeScript I
-  - [JavaScript](./xtras/01-JavaScript/01-JavaScript.md)
-  - [Errores en tiempo de ejecución de JavaScript](./xtras/01-JavaScript/02-ErroresEjecucion.md)
-  - [Modo Estricto en JavaScript](./xtras/01-JavaScript/03-UseStrict.md)
-  - [TypeScript](./xtras/01-JavaScript/02-ErroresEjecucion.md)
-02. TypeScript II
-03. TypeScript & Express
+### 01. TypeScript I
+
+- [JavaScript](./xtras/01-JavaScript/01-JavaScript.md)
+- [Errores en tiempo de ejecución de JavaScript](./xtras/01-JavaScript/02-ErroresEjecucion.md)
+- [Modo Estricto en JavaScript](./xtras/01-JavaScript/03-UseStrict.md)
+- [TypeScript](./xtras/01-JavaScript/02-ErroresEjecucion.md)
+
+### 02. TypeScript II
+
+- [Interfaces y Tipos Personalizados](./xtras/02-TypeScript/01-Interfaces%20y%20Tipos.md)
+
+### 03. TypeScript & Express
