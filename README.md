@@ -32,3 +32,11 @@
 ### 03. TypeScript & Express
 
 - [Flow de Express](./xtras/03-Express/m3-03.md)
+
+### 05. TypeORM
+
+- [TypeORM](./xtras/05-TypeORM/typeorm.md)
+
+### 07. React Intro
+
+- [Estilos en React](./xtras//07-ReactIntro//css.md)
