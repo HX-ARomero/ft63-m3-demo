@@ -39,4 +39,5 @@
 
 ### 07. React Intro
 
-- [Estilos en React](./xtras//07-ReactIntro//css.md)
+- [Estilos en React](./xtras/07-ReactIntro/css.md)
+- [FlexBox](./xtras/07-ReactIntro/FlexBox.md)
