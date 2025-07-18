@@ -41,3 +41,22 @@
 
 - [Estilos en React](./xtras/07-ReactIntro/css.md)
 - [FlexBox](./xtras/07-ReactIntro/FlexBox.md)
+
+### 08. React DataFlow
+
+- [Estados en React](./xtras/08-DataFlow/Estados.md)
+- [Props y Eventos en React](./xtras/08-DataFlow/Props.md)
+
+### 09. React LifeCycle
+
+- [Cors](./xtras/09-LifeCycle/Cors.md)
+- [Ciclo de Vida de un Componente: useEffect](./xtras/09-LifeCycle/useEffect.md)
+
+## Buenas Prácticas
+
+- [01.Buenas Prácticas](./xtras/BuenasPracticas/01.md)
+- [02.Buenas Prácticas](./xtras/BuenasPracticas/02.md)
+- [03.Buenas Prácticas](./xtras/BuenasPracticas/03.md)
+- [04.Buenas Prácticas](./xtras/BuenasPracticas/04.md)
+- [05.Buenas Prácticas](./xtras/BuenasPracticas/05.md)
+- [10.Buenas Prácticas](./xtras/BuenasPracticas/10.md)
