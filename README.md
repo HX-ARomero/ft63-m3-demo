@@ -52,6 +52,10 @@
 - [Cors](./xtras/09-LifeCycle/Cors.md)
 - [Ciclo de Vida de un Componente: useEffect](./xtras/09-LifeCycle/useEffect.md)
 
+### 11. React-Router-Dom
+
+- [Documentación Oficial](https://reactrouter.com/)
+
 ## Buenas Prácticas
 
 - [01.Buenas Prácticas](./xtras/BuenasPracticas/01.md)
@@ -59,4 +63,6 @@
 - [03.Buenas Prácticas](./xtras/BuenasPracticas/03.md)
 - [04.Buenas Prácticas](./xtras/BuenasPracticas/04.md)
 - [05.Buenas Prácticas](./xtras/BuenasPracticas/05.md)
-- [10.Buenas Prácticas](./xtras/BuenasPracticas/10.md)
+- [06.Buenas Prácticas](./xtras/BuenasPracticas/06.md)
+- [07.Buenas Prácticas](./xtras/BuenasPracticas/07.md)
+- [08.Buenas Prácticas](./xtras/BuenasPracticas/08.md)
